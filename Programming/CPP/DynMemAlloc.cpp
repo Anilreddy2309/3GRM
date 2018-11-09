@@ -1,5 +1,6 @@
-#include<iostream.h>
-#include<conio.h>
+#include<iostream>
+#include<stdio.h>
+using namespace std;
 int n,i;
 class cse
 {
@@ -26,6 +27,6 @@ void cse::set()
 		cout<<"\n enter student details:\n";
 		cout<<"\n enter name:";
 		cin>>r->name;
-		cin->roll
+		cin->roll;
 	}
 }

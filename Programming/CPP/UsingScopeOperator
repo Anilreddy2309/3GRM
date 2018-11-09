@@ -1,0 +1,23 @@
+#include<iostream>
+#include<conio.h>
+class anil
+{
+	public:
+	void a()
+	{
+		cout<<"hiii\n";
+		h();
+		
+	}
+	private:
+	void h()
+	{
+		cout<<"\n hello";
+	}
+};
+voi main()
+{
+	a a1;
+	clrscr();
+	a1.j();
+}
