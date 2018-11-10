@@ -1,7 +1,6 @@
 #include<iostream>
 #include<stdio.h>
 #include<stdlib.h>
-#include<conio.h>
 using namespace std;
 struct bstree
 {
@@ -103,7 +102,7 @@ int main()
 					default:
 						cout<<"\n enter valid choice\n";
 	    	}
-			cout<<"\n do u want to do other operation(1/0:)";
+			cout<<"\n do u want to do other operation(1/0):";
 	     	cin>>op;
         }while(op==1);
      }
@@ -114,7 +113,7 @@ int main()
 		{
 			if(temp->data==ele)
 			{
-				cout<<"\n entered element [%d]is already present in the tree\n",ele;
+				cout<<"\n entered element is already present in the tree\n",ele;
 				found=1;
 		   		break;
 			}
@@ -175,7 +174,7 @@ int main()
 	
 	}
 	void delnode(struct bstree *temp)
-{
+    {
 	coout<<"\nenter element to be deleted:";
 	cin>>d;
 	found=0;
@@ -200,6 +199,7 @@ int main()
 		}
 		
 	}
+    }
 	if(found==0)
 	{
 		cout<<"\n"<<"i haven't found "<<d<<"in the tree\n";
@@ -279,7 +279,10 @@ void postorder(struct bstree *temp)
 		postorder(temp->lchild);
 		postorder(temp->rchild);
 		cout<<temp->data<<" ";
-		
 	}
 }
-}
+		
+	
+
+
+
