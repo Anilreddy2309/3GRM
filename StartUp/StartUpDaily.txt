@@ -1,0 +1,79 @@
+0. RaspberryPi Configurations:
+
+	1. Preferences -> RaspberryPi configurations -> 
+		System: Hostname changed from raspberrypi to anipi
+		Interface: SSH & VNC enable
+		Performance: GPU memeory chagned from 64 to 416
+		
+		Reboot
+		
+		
+		
+
+   To check git version
+	git --version
+	
+	installed gitk: sudo apt-get install gitk
+	//installed gitgui: sudo apt-get install gitgui
+
+1. To check verson 
+	java -version
+
+2. To cehck pythin version
+	python --version
+
+	pythin3 --version
+
+3. To check (Editor) geany version
+
+	geany --version
+	
+4. To check C / CPP copiler
+
+	gcc --version
+	
+
+5. Install DB:
+	
+	Mysql installation on RaspberryPi: 
+		https://www.stewright.me/2016/04/install-mysql-server-raspberry-pi/\
+	
+	to start server: sudo mysql
+	
+
+		NOW IT's time to TRYOUT & practice more
+		
+6. JAVA Programs??
+
+	Try Hello World progrtam in Jave using terminal
+	
+	
+
+7. Operating System Programs:
+	gcc compiler? Already avaible.
+	
+	FCFS
+	SJF
+	RR
+	
+8. GitHub
+
+	Account Details?? Yes avaiable
+	
+	login?
+	
+	download all the git repositiories from gitHub
+
+
+9. VNC Viewer : Login with Jaswanth VNC cloud account
+
+	remote access;
+	
+
+10. Skype
+
+
+11. Whats App
+
+
+12. 

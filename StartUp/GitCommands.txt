@@ -1,0 +1,12 @@
+GitHub commands
+1.
+git config --global user.email "anilreddy9901@gmail.com"
+
+git config --global user.name "anilreddy2309"
+
+git status
+
+git add .      or git add <includingpath/filename>
+
+git commit -am "your message "
+
