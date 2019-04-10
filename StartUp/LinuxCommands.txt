@@ -123,3 +123,6 @@ By specifying -i with wildcards, the locate CLI command will pull back all files
 10. clear
 
 The clear command does exactly what it says. When your Linux CLI gets all mucked up with various readouts and information, the clear command clears the screen and wipes the board clean. Using the clear command will take the user back to the start prompt of whatever directory you are currently operating in. To use the clear command simply type clear.
+11. ls -R
+"ls -R" is use to shows all the files not only in directories but also subdirectories
+12. 
