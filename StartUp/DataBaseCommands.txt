@@ -1,0 +1,4 @@
+1.sudo mysql - for enter
+[ERROR 1698 (28000): Access denied for user 'pi'@'localhost']
+2.exit - exit from database
+
