@@ -2,3 +2,33 @@
 [ERROR 1698 (28000): Access denied for user 'pi'@'localhost']
 2.exit - exit from database
 
+3. How to create database
+	create database <DATABASE_NAME>
+	create database 3grm;
+	
+4. How to switch to created database
+	use <DATABASE_NAME>;
+	use 3grm;
+	
+5. How to create tables in seleted database
+	create table <TABLE_NAME>;
+	
+6. How to insert valuesinto database table
+	insert into .....;
+	
+7. How to show all the tables in the database
+	show tables;
+
+8. How todrop / delete a table from database
+	drop table <TABLE_NAME>;
+	
+9. How to delete rows in the database
+
+10. how to deleted columns inthe database
+
+11. How deleted anentry from the database
+
+12. how modify data base table with additional parameters / arguments
+
+13. Select week wise from the table and calculate average for the week and insert into different table with week no &  avarage rating
+

@@ -11,4 +11,8 @@ git add .      or git add <includingpath/filename>
 git commit -am "your message "
 
 
+// why?? 
+sudo cp -rf /var/lib/mysql/3grm Programming/DataBases/MySqlMariaDBs/
+// Why??
+sudo git add .
 
